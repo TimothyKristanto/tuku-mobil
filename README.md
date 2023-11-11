@@ -7,7 +7,7 @@ Installing laravel projects from github steps:
 <sub>composer install<sub/>
 
 ## 2. Install npm
-<sub>composer install<sub/>
+<sub>npm install<sub/>
 
 ## 3. Create a copy of .env file
 <sub>cp .env.example .env<sub/>
