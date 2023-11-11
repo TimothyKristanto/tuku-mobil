@@ -3,19 +3,22 @@ Certification Application
 
 Installing laravel projects from github steps:
 
-## 1. Install composer with command below
+## 1. Go inside the project directory
+<sub>cd aplikasi-ujian-sertifikasi<sub/>
+
+## 2. Install composer with command below
 <sub>composer install<sub/>
 
-## 2. Install npm
+## 3. Install npm
 <sub>npm install<sub/>
 
-## 3. Create a copy of .env file
+## 4. Create a copy of .env file
 <sub>cp .env.example .env<sub/>
 
-## 4. Setup your .env file
+## 5. Setup your .env file
 
-## 5. Generate app key
+## 6. Generate app key
 <sub>php artisan key:generate<sub/>
 
-## 6. Migrate database
+## 7. Migrate database
 <sub>php artisan migrate<sub/>
