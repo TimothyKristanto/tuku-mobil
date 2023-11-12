@@ -6,8 +6,8 @@ Installing laravel projects from github steps:
 ## 1. Go inside the project directory
 <sub>cd aplikasi-ujian-sertifikasi<sub/>
 
-## 2. Install composer with command below
-<sub>composer install/update<sub/> or <sub>composer install/update --ignore-platform-reqs<sub/>
+## 2. Install composer using one from the two commands below
+<sub>composer install/update or composer install/update --ignore-platform-reqs<sub/>
 
 ## 3. Install npm
 <sub>npm install<sub/>
