@@ -25,3 +25,6 @@ Installing laravel projects from github steps:
 
 ## 8. Link storage folder to public
 <sub>php artisan storage:link<sub/>
+
+## 9. Add command below to your .env file
+<sub>FILESYSTEM_DISK=public<sub/>
