@@ -22,3 +22,6 @@ Installing laravel projects from github steps:
 
 ## 7. Migrate database
 <sub>php artisan migrate<sub/>
+
+## 8. Link storage folder to public
+<sub>php artisan storage:link<sub/>
